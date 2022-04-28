@@ -16,11 +16,11 @@ Template repository for Obsidian.md to help build Vault setups.
 
 ## Vault Templates
 
-As of 2022-04-28 I only have one vault template in this repository
+As of 2022-04-28 I only have one vault template in this repository. I am planning to build more vault templates in the future. Feel free  
 
 ---
 
-## How to Use Template
+## How to Use Templates
 
 1. Downlaod the repository. 
    1. [🔗 Download Link](https://github.com/mNdrew/Obsidian-Template/archive/refs/heads/main.zip)
@@ -29,6 +29,7 @@ As of 2022-04-28 I only have one vault template in this repository
 4. Copy it to your desired directory location.
 5. You may rename the folder according to your own liking
 6. Open Obsidian.md
-7. 
+7. Click the `Open folder as Vault` button and select the folder of your new vault.
+8. You are good to go! 
 
 ---
