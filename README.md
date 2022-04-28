@@ -11,4 +11,15 @@ Template repository for Obsidian.md to help build Vault setups.
 - [Obsidian Twitter Account](https://twitter.com/obsdmd)
 
 ---
-## 
+## Vault Templates
+
+
+---
+## How to Use Template
+1. Downlaod the repository. 
+   1. [🔗 Download Link](https://github.com/mNdrew/Obsidian-Template/archive/refs/heads/main.zip)
+2. Extract the files.
+3. Locate the *Minimal Vault Folder*
+4. Copy the *Minimal Vault Folder* to your desired directory location.
+5. Open Obsidian
+---
