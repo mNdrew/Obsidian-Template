@@ -3,5 +3,10 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "tabSize": 4
+  "tabSize": 4,
+  "trashOption": "system",
+  "fileSortOrder": "alphabetical",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "9 Attachments"
 }

@@ -1,0 +1,8 @@
+# {{title}}
+Tags: 
+
+---
+## Notes
+
+--- 
+## References

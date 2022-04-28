@@ -6,49 +6,57 @@
       {
         "id": "05c0fd27cf05c088",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guide/0 Initialization.md",
+            "file": "0 Guide/0 Initialization.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "07043e78815f47cf",
+        "id": "17981fb6cc117e47",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guide/1 Hotkeys Used.md",
+            "file": "0 Guide/1 Hotkeys Used.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       },
       {
         "id": "597fffb253ddf407",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guide/2 Core Plugins.md",
+            "file": "0 Guide/2 Core Plugins.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "728e8bc704968b10",
+        "id": "cb0951df1823e1ff",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guide/3 Additional Plugins.md",
+            "file": "0 Guide/3 Additional Plugins.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -84,6 +92,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7f74d2368532019b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,14 +114,59 @@
       {
         "id": "697612eb6ca657ee",
         "type": "tabs",
+        "dimension": 39.50177935943061,
         "children": [
+          {
+            "id": "1be689fd4beaef77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2005d696dc4b7af0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "16868957cec98aef",
+        "type": "tabs",
+        "dimension": 60.4982206405694,
+        "children": [
+          {
+            "id": "b9d70dd941f8cea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 Guide/0 Initialization.md"
+              }
+            }
+          },
+          {
+            "id": "42b50a66f4586835",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "5ace078506e22c41",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide/0 Initialization.md",
+                "file": "0 Guide/0 Initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +175,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "1be689fd4beaef77",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -132,9 +185,15 @@
   },
   "active": "05c0fd27cf05c088",
   "lastOpenFiles": [
-    "Guide/0 Initialization.md",
-    "Guide/1 Hotkeys Used.md",
-    "Guide/2 Core Plugins.md",
-    "Guide/3 Additional Plugins.md"
+    "0 Guide/0 Initialization.md",
+    "8 CRM/CRM Index.md",
+    "Templates/Person Note.md",
+    "0 Guide/1 Hotkeys Used.md",
+    "0 Guide/3 Additional Plugins.md",
+    "0 Guide/2 Core Plugins.md",
+    "Templates/Simple Note.md",
+    "1 Calendar/Periodic Notes/2022-04-28 (Thursday).md",
+    "Templates/Daily Note Template.md",
+    "2022-04-28 (Thursday).md"
   ]
 }
