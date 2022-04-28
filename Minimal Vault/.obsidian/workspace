@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Guide/0 Initialization.md"
+                "file": "0 Guide/1 Hotkeys Used.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Guide/0 Initialization.md",
+                "file": "0 Guide/1 Hotkeys Used.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,12 +183,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "05c0fd27cf05c088",
+  "active": "17981fb6cc117e47",
   "lastOpenFiles": [
+    "0 Guide/1 Hotkeys Used.md",
     "0 Guide/0 Initialization.md",
     "8 CRM/CRM Index.md",
     "Templates/Person Note.md",
-    "0 Guide/1 Hotkeys Used.md",
     "0 Guide/3 Additional Plugins.md",
     "0 Guide/2 Core Plugins.md",
     "Templates/Simple Note.md",

@@ -9,4 +9,4 @@
 | 📌 Toggle Pin           | `ctrl + shift + P` |
 | 📑 Cycle through panes  | `ctrl + tab`       |
 | 🔴 Close Active File    | `ctrl + W`         |
-|                         |                    |
+| 📖 Open Another Vault   | `ctrl + shift + Z`                   |
