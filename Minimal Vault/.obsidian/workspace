@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "99fad5ea090e5111",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c0fd27cf05c088",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guide/0 Initialization.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "07043e78815f47cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guide/1 Hotkeys Used.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "597fffb253ddf407",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guide/2 Core Plugins.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "728e8bc704968b10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guide/3 Additional Plugins.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "027a77da46d1fd59",
+    "type": "split",
+    "children": [
+      {
+        "id": "4219675f24bdab42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01884e4b204fb197",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e6149a7e9caf00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e66545323a9b3903",
+    "type": "split",
+    "children": [
+      {
+        "id": "697612eb6ca657ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ace078506e22c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guide/0 Initialization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1be689fd4beaef77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "05c0fd27cf05c088",
+  "lastOpenFiles": [
+    "Guide/0 Initialization.md",
+    "Guide/1 Hotkeys Used.md",
+    "Guide/2 Core Plugins.md",
+    "Guide/3 Additional Plugins.md"
+  ]
+}
